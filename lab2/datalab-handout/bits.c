@@ -322,7 +322,6 @@ int floatFloat2Int(unsigned uf) {
         if(sign==0) return result;
         else return -result;
     }
-    
 }
 /* 
  * floatPower2 - Return bit-level equivalent of the expression 2.0^x
